@@ -1,6 +1,3 @@
 [submodule "evaluation/TFSegmentation"]
 	path = evaluation/TFSegmentation
 	url = git@github.com:MSiam/TFSegmentation.git
-[submodule "model/FANet"]
-	path = model/FANet
-	url = git@github.com:feinanshan/FANet.git
