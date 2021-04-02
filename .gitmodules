@@ -1,3 +1,0 @@
-[submodule "evaluation/TFSegmentation"]
-	path = evaluation/TFSegmentation
-	url = git@github.com:MSiam/TFSegmentation.git
