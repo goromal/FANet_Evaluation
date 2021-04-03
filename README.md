@@ -17,12 +17,8 @@ This work is based off of the following papers:
 - [Real-time Semantic Segmentation with Fast Attention](https://arxiv.org/pdf/2007.03815.pdf)
 - [RTSeg: Real-time Semantic Segmentation Comparative Study](https://arxiv.org/pdf/1803.02758.pdf)
 
-## Installation
+## Installation and Usage
 
-```bash
-git clone --recurse-submodules git@github.com:goromal/FANet_Evaluation.git
-```
-
-## Usage
-
-TODO
+1. Make sure your Google Drive has plenty of space for this repository.
+2. Preview the file [fanet_eval_main.ipynb](fanet_eval_main.ipynb) and click the link "Open in Colab," which will copy the file to your Google Drive.
+3. Follow the Setup steps in the notebook, which will clone the repo and set up all necessary packages.
