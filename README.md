@@ -1,5 +1,7 @@
 # Investigation into FANet for Real-Time Image Semantic Segmentation in Autonomous Driving
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/goromal/FANet_Evaluation/main?filepath=fanet_eval_main.ipynb)
+
 ## Explanation
 
 Image Semantic Segmentation, which allows for object-level reasoning and analysis from either disjoint images or video streams, is highly useful in the field of autonomous vehicles that rely on discrete object awareness for planning and navigation.
