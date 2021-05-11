@@ -2,6 +2,18 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/goromal/FANet_Evaluation/main?filepath=fanet_eval_main.ipynb)
 
+## Source File List
+
+- [airsim_dataset_creation](airsim_dataset_creation.ipynb): Script used to create the AirSim segmentation dataset.
+- [fanet_eval_main](fanet_eval_main.ipynb): Script used to validate the speed and performance of the base FANet implementation.
+- ...
+
+## Installation and Usage
+
+1. Make sure your Google Drive has plenty of space for this repository.
+2. Preview the file [fanet_eval_main.ipynb](fanet_eval_main.ipynb) and other top-level python notebooks and click the link "Open in Colab," which will copy the file to your Google Drive.
+3. Follow the Setup steps in the notebook, which will clone the repo and set up all necessary packages.
+
 ## Explanation
 
 Image Semantic Segmentation, which allows for object-level reasoning and analysis from either disjoint images or video streams, is highly useful in the field of autonomous vehicles that rely on discrete object awareness for planning and navigation.
@@ -18,9 +30,3 @@ This work is based off of the following papers:
 
 - [Real-time Semantic Segmentation with Fast Attention](https://arxiv.org/pdf/2007.03815.pdf)
 - [RTSeg: Real-time Semantic Segmentation Comparative Study](https://arxiv.org/pdf/1803.02758.pdf)
-
-## Installation and Usage
-
-1. Make sure your Google Drive has plenty of space for this repository.
-2. Preview the file [fanet_eval_main.ipynb](fanet_eval_main.ipynb) and click the link "Open in Colab," which will copy the file to your Google Drive.
-3. Follow the Setup steps in the notebook, which will clone the repo and set up all necessary packages.
