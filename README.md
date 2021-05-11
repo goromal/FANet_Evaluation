@@ -5,13 +5,14 @@
 ## Source File List
 
 - [airsim_dataset_creation](airsim_dataset_creation.ipynb): Script used to create the AirSim segmentation dataset.
+  - Consolidated dataset: [X.npy](https://bit.ly/3bjYNPH), [Y.npy](https://bit.ly/3hopyGe)
 - [fanet_eval_main](fanet_eval_main.ipynb): Script used to validate the speed and performance of the base FANet implementation.
-- ...
+- [FANet_trainer_WITH_TIME](FANet_trainer_WITH_TIME.ipynb): Script used to train FANet with TCA.
 
 ## Installation and Usage
 
 1. Make sure your Google Drive has plenty of space for this repository.
-2. Preview the file [fanet_eval_main.ipynb](fanet_eval_main.ipynb) and other top-level python notebooks and click the link "Open in Colab," which will copy the file to your Google Drive.
+2. Preview the top-level python notebooks in the source file list above and click the link "Open in Colab," which will copy the file to your Google Drive.
 3. Follow the Setup steps in the notebook, which will clone the repo and set up all necessary packages.
 
 ## Explanation
